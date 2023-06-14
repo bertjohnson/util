@@ -1,2 +1,2 @@
 # util
-Go library with common utility functions
+Go library with common utility functions.
